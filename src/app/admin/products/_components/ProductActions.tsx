@@ -22,7 +22,7 @@ export function ActiveToogleDropdownItem({
     )
 }
 
-export function DeleteDropdownItem({
+/*export function DeleteDropdownItem({
     id, disabled
 } : {
     id: string,
@@ -40,4 +40,4 @@ export function DeleteDropdownItem({
             {isAvaliableForPurchase ? "Deactivate" : "Activate"}
         </DropdownMenuItem>
     )
-}
+}*/
